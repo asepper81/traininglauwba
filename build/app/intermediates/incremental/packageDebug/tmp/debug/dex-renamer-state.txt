@@ -1,0 +1,4 @@
+#Sat Oct 03 09:40:34 SGT 2020
+base.0=D\:\\flutterproject\\training flutter\\transformer\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
